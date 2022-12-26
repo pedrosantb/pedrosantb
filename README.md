@@ -22,7 +22,7 @@
 <div align="left" id="stats">
 <h3> - Brazilian 🏖️ full stack developer based in London 💂</h3>
 <h3> - Industrial automation technician 🏭 </h3>
-<h3> - Intrested in building everthing from robots to interfaces 🔧</h3>
+<h3> - Intrested on building everthing from robots to interfaces 🔧</h3>
 <h3> - co-founder of <a href="https://prajaenvios.com.br">Pra Já - Envios</a> local platform for logistics ✈</h3>
 
 <h3>- <a href="https://api.whatsapp.com/send/?phone=5571999095455&text=Found you on github&type=phone_number&app_absent=0"> Get in touch on WhatsApp</a> or feel free to send an email to pedrosantb@gmail.com<h3>
