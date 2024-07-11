@@ -21,7 +21,6 @@
 
 <div align="left" id="stats">
 <h3> - Brazilian 🏖️ full stack developer based in Berlin </h3>
-<h3> - Industrial automation technician 🏭 </h3>
 <h3>- feel free to send me an email at pedrosantb@gmail.com<h3>
 
 </div>
