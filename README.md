@@ -1,7 +1,7 @@
 
 
 <div align="center" id="header">
-    <img width="30%" src="src/photo.png" />
+    <img width="30%" src="src/photo_2.png" />
 </div>
 
 <div id="badges" align="center">
@@ -21,27 +21,13 @@
 
 <div align="left" id="stats">
 <h3> - Brazilian 🏖️ full stack developer based in Berlin </h3>
-<h3>- feel free to send me an email at pedrosantb@gmail.com<h3>
+<h3>- feel free to send me an email at pedro.santa-barbara@code.berlin<h3>
 
 </div>
 
 
 <br/>
-<h1> Blog posts </h1>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<h2>coming soon</h2>
-
-
-
-<br/>
 <h1>My GitHub stats</h1>
-
-<div align="center">
-<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=pedrosantb&show_icons=true&theme=radical" />
-
-</br>
 
 <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosantb&layout=compact&theme=radical" />
 </div>
