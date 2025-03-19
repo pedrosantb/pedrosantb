@@ -1,7 +1,7 @@
 
 
 <div align="center" id="header">
-    <img width="30%" src="src/photo_2.png" />
+    <img width="30%" src="src/photo_2.jpg" />
 </div>
 
 <div id="badges" align="center">
